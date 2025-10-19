@@ -12,7 +12,7 @@ This happens in two steps:
 
 First, undertake this task:
 
-## ALGORITHMIC PHILOSOPHY CREATION
+## jenkins hai hummmm
 
 To begin, create an ALGORITHMIC PHILOSOPHY (not static images or templates) that will be interpreted through:
 - Computational processes, emergent behavior, mathematical beauty
